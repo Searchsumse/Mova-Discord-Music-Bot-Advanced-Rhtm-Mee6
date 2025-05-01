@@ -1,0 +1,2 @@
+D:\GithubNew\3\Discord1\Discord1\Music-Bot\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\3\Discord1\Discord1\Music-Bot\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
